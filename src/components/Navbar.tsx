@@ -60,8 +60,6 @@ export default function NavBar() {
           </div>
         </nav>
       </div>
-              unsplash.com/photos/hq8s4zjhj3l
-              unsplash.com/photos/FTy5VSGlfiQ
       <Transition
         as={Fragment}
         enter="duration-150 ease-out"
