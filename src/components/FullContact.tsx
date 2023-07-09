@@ -80,12 +80,12 @@ export default function FullContact() {
         <div className="lg:pr-8">
           <div className="max-w-md mx-auto sm:max-w-lg lg:mx-0">
             <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">
-              Ready to perfect your painting project?
+              Ready to perfect your coating project? We Got You Covered
             </h2>
             <p className="mt-4 text-lg text-gray-500 sm:mt-3">
-              Reach out to TC Coating, your trusted partner in quality painting
+              Reach out to TC Coating, your trusted partner in quality coating and repair
               services. We&apos;re ready to bring color and vibrance to your spaces.
-              Send us a message using this form or email us directly. Let&apos;s
+              Send us a message using this form or Call us directly. Let&apos;s
               start a conversation!
             </p>
             <form

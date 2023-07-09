@@ -32,7 +32,7 @@ export default function AboutUsContent() {
               <blockquote className="mt-8">
                 <div className="relative text-lg font-medium text-white md:flex-grow">
                   <p className="relative">
-                  &ldquo;Transforming spaces one brush stroke at a time. TC Coating
+                  &ldquo;Transforming spaces one spray at a time. TC Coating
                     delivered an outstanding job on our property. The level of
                     detail and professionalism was unparalleled. I can&apos;t
                     recommend them enough.&rdquo;
@@ -53,12 +53,12 @@ export default function AboutUsContent() {
           {/* Content area */}
           <div className="pt-12 sm:pt-16 lg:pt-20">
             <h2 className="text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl">
-              TC Coating, where Quality meets Creativity
+              TC Coating, The Experts In Exterior
             </h2>
             <div className="mt-6 text-gray-500 space-y-6">
               <p className="text-lg">
                 We, at TC Coating, have been transforming homes and businesses
-                with our expert painting services. With a team of professional
+                with our expert coating & repair services. With a team of professional
                 painters and state-of-the-art equipment, we guarantee
                 high-quality service and impeccable results.
               </p>

@@ -28,7 +28,7 @@ export default function NavBar() {
             <div className="flex items-center justify-between w-full md:w-auto">
               <Link href="/">
                 <img
-                  className="h-16 w-auto sm:h-16"
+                  className="h-20 w-auto sm:h-20"
                   src="/logo.jpg"
                   alt="TC Coating"
                 />
@@ -98,7 +98,7 @@ export default function NavBar() {
                 </Link>
               ))}
             </div>
-            <Link href="/contact-us" className="block w-full px-5 py-3 text-center font-medium text-blue-300 bg-gray-50 hover:bg-gray-100">
+            <Link href="/contact-us" className="block w-full px-5 py-3 text-center font-medium text-blue-300 bg-black hover:bg-gray-100">
                 Get in Touch
             </Link>
           </div>

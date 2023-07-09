@@ -19,8 +19,8 @@ const features = [
         icon: ClockIcon,
     },
     {
-        name: 'School Painting',
-        description: 'We specialize in painting schools during vacation periods, ensuring the job is completed before students return. We coordinate closely with school caretakers for seamless operations.',
+        name: 'Repairing Damaged Walls',
+        description: 'At TC Coating We make sure to get the best finish possible, to do this we will prepare and fix damaged walls, flaky paint, patch up cracks and even do external render repair and much more! Guaranteeing long lasting vibrant walls without compromising the structure of the building.',
         icon: AcademicCapIcon,
     },
     {
@@ -34,8 +34,8 @@ const features = [
         icon: UserGroupIcon,
     },
     {
-        name: 'Decorative Painting',
-        description: 'We offer decorative painting for shops, hospitals, government buildings, and more, including limited building work if required as part of the decorations.',
+        name: 'Signature Coating',
+        description: "The coating is a textured material similar to paint that contains PERLITE (volcanic stone) that protects your house from outside elements, such as Sun and Rain meaning the colour does not fade, lasting a very long time. It is 10x thicker and more breathable and can even help insulate your home. Lastly, it's waterproof so walls can be washed!",
         icon: HomeIcon,
     },
 ]
@@ -47,10 +47,10 @@ export default function Features() {
             <div className="mx-auto max-w-md px-4 text-center sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
                 <h2 className="text-base font-semibold uppercase tracking-wider text-blue-600">Delivering Excellence</h2>
                 <p className="mt-2 text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
-                    Everything You Need In a Painting Service
+                    Everything You Need In a Coating Service
                 </p>
                 <p className="mx-auto mt-5 max-w-prose text-xl text-white">
-                    TC Coating provides high-quality, reliable, and tidy painting services for commercial and residential properties. Enhance the beauty of your property with us.
+                    TC Coating provides high-quality, reliable, and tidy coating services for commercial and residential properties. Enhance the beauty of your property with us.
                 </p>
                 <div className="mt-12">
                     <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">

@@ -1,9 +1,7 @@
-import Image from "next/image";
-
 export default function ResidentialTestimonial() {
   return (
     <div className="bg-white pt-16 lg:py-24">
-      <div className="pb-16 bg-blue-600 lg:pb-0 lg:z-10 lg:relative">
+      <div className="pb-16 bg-green-600 lg:pb-0 lg:z-10 lg:relative">
         <div className="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-3 lg:gap-8">
           <div className="relative lg:-my-8">
             <div
@@ -12,13 +10,14 @@ export default function ResidentialTestimonial() {
             />
             <div className="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:p-0 lg:h-full">
               <div className="aspect-w-10 aspect-h-6 rounded-xl shadow-xl overflow-hidden sm:aspect-w-16 sm:aspect-h-7 lg:aspect-none lg:h-full">
-                <Image
-                  className="object-cover lg:h-full lg:w-full"
-                  src="/pink-bricks.jpg"
-                  alt="A beautifully painted room by TC Coating"
-                  fill
-                  style={{ objectFit: "cover" }}
-                />
+                <video
+                  controls
+                  className="lg:h-full lg:w-full"
+                  style={{ objectFit: "contain" }}
+                >
+                  <source src="/commercial.mp4" type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
               </div>
             </div>
           </div>

@@ -71,12 +71,9 @@ export default function BasicContact() {
           <div className="max-w-lg mx-auto">
             <h2 className="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">Connect with TC Coating</h2>
             <p className="mt-3 text-lg leading-6 text-gray-500">
-              We are eager to discuss your painting needs. Whether you&apos;re seeking residential or commercial services, TC Coating is here to help.
+              We are eager to discuss your coating needs. Whether you&apos;re seeking residential or commercial services, TC Coating has GOT YOU COVERED.
             </p>
             <dl className="mt-8 text-base text-gray-500">
-              <div>
-                <p>Covering All East Anglian Areas</p>
-              </div>
               <div className="mt-6">
                 <dt className="sr-only">Phone number</dt>
                 <dd className="flex">

@@ -29,11 +29,11 @@ export default function Banner() {
             </span>
             <p className="ml-3 font-medium text-white truncate">
               <span className="md:hidden">Explore our painting portfolio!</span>
-              <span className="hidden md:inline">Take a journey through our successful painting projects and see the transformations for yourself!</span>
+              <span className="hidden md:inline">Take A Journey Through Our Successful Coating Projects & CALL +44 7385 723318 Today!</span>
             </p>
           </div>
           <div className="order-3 mt-2 flex-shrink-0 w-full sm:order-2 sm:mt-0 sm:w-auto">
-            <Link href="/portfolio" legacyBehavior>
+            <Link href="/portfolio">
               <div className="flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium cursor-pointer text-blue-600 bg-white hover:bg-blue-50">
                 View Projects
               </div>

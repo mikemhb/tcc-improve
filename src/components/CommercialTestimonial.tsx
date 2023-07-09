@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function CommercialTestimonial() {
   return (
-    <section className="bg-green-500">
+    <section className="bg-green-600">
       <div className="max-w-7xl mx-auto md:grid md:grid-cols-2 md:px-6 lg:px-8">
         <div className="py-12 px-4 sm:px-6 md:flex md:flex-col md:py-16 md:pl-0 md:pr-10 md:border-r md:border-green-700 lg:pr-16">
           <h2 className="text-2xl font-bold text-white mb-5">
@@ -34,7 +34,7 @@ export default function CommercialTestimonial() {
                   <div className="text-base font-medium text-white">
                     John Doe
                   </div>
-                  <div className="text-base font-medium text-blue-200">
+                  <div className="text-base font-medium text-gray-300">
                     Office Manager
                   </div>
                 </div>
@@ -72,7 +72,7 @@ export default function CommercialTestimonial() {
                   <div className="text-base font-medium text-white">
                     Jane Smith
                   </div>
-                  <div className="text-base font-medium text-blue-200">
+                  <div className="text-base font-medium text-gray-300">
                     Business Owner
                   </div>
                 </div>
