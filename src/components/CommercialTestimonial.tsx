@@ -32,7 +32,7 @@ export default function CommercialTestimonial() {
                 </div>
                 <div className="ml-4">
                   <div className="text-base font-medium text-white">
-                    John Doe
+                    Jeffrey Hon
                   </div>
                   <div className="text-base font-medium text-gray-300">
                     Office Manager

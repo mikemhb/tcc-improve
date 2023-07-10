@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 import Image from "next/image";
 import React from "react";
 
@@ -15,6 +15,10 @@ const portfolio = [
     before: "/yellow-house-before.jpg",
     after: "/yellow-house-after.jpg",
   },
+  {
+    before: "/badhouse.jpg",
+    after: "/newhouse.jpg",
+  },
 ];
 
 export default function PortfolioImages() {
@@ -26,7 +30,7 @@ export default function PortfolioImages() {
         </h2>
 
         <p className="text-lg text-gray-500 mb-6 text-center">
-          See just some of the projects we&apos;ve accomplished.
+          See just some of the projects we&apos;ve completed.
         </p>
 
         <div className="grid grid-cols-2 gap-4">

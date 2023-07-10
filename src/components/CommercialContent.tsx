@@ -52,7 +52,7 @@ export default function CommercialContent() {
                       />
                     </div>
                     <div className="text-base font-medium text-gray-700">
-                      John Doe, Office Manager
+                      Jeffrey hon, Office Manager
                     </div>
                   </div>
                 </footer>
