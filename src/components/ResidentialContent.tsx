@@ -5,19 +5,19 @@ const contactFeatures = [
   {
     id: 1,
     name: 'Expert Craftsmanship',
-    description: 'Our team of skilled painters will deliver high-quality results for your residential painting needs.',
+    description: 'Our team of skilled coaters will deliver high-quality finished results for all your residential spray coating needs.',
     icon: FaBrush,
   },
   {
     id: 2,
     name: 'Home Beautification',
-    description: 'Give your home the ultimate makeover with a fresh coat of paint. Transform and uplift your living spaces.',
+    description: 'Give your home the ultimate makeover with a fresh coat! Transform and uplift your living spaces today and give the team a call.',
     icon: FaHome,
   },
   {
     id: 3,
     name: 'Fast & Efficient Service',
-    description: 'We work efficiently to complete your painting project on time, without compromising on quality.',
+    description: 'We work efficiently to complete your coating project on time, without a single compromise on quality.',
     icon: FaCheck,
   },
 ]
@@ -25,13 +25,13 @@ const communicationFeatures = [
   {
     id: 1,
     name: 'Email Communication',
-    description: 'Stay updated on your painting project through our frequent email updates.',
+    description: 'Stay updated on your coating project through our frequent email and phone updates.',
     icon: FaMailBulk,
   },
   {
     id: 2,
     name: 'Dedicated Support Line',
-    description: 'We provide a dedicated phone line for any questions or support related to your painting project.',
+    description: 'We provide a dedicated phone line for any questions or support related to your coating project.',
     icon: FaPhone,
   },
 ]
@@ -65,10 +65,10 @@ export default function ResidentialContent() {
 
         <div className="relative">
           <h2 className="text-center text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            Exceptional Residential Painting Services
+            Exceptional Residential Coating Services
           </h2>
           <p className="mt-4 max-w-3xl mx-auto text-center text-xl text-gray-500">
-            With TC Coating, ensure a top-notch, hassle-free residential painting service tailored to your needs.
+            With TC Coating, ensure a top-notch, hassle-free residential coating service tailored to your needs.
           </p>
         </div>
 
@@ -78,7 +78,7 @@ export default function ResidentialContent() {
               Why Choose TC Coating
             </h3>
             <p className="mt-3 text-lg text-gray-500">
-              We deliver quality residential painting services with an emphasis on reliability, professional expertise, and superior results.
+              We deliver quality residential coating services with an emphasis on reliability, professional expertise, and superior results.
             </p>
 
             <dl className="mt-10 space-y-10">

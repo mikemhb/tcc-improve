@@ -4,17 +4,17 @@ import Image from "next/image";
 
 const serviceLinks = [
   {
-    name: "Residential Painting",
+    name: "Residential Coating",
     href: "/residential",
     description:
-      "Transform your living space with our high-quality residential painting services. We use premium paint and detailed approach to ensure a great finish.",
+      "Transform your living space with our high-quality residential coating services. We use premium paint and detailed approach to ensure a great finish.",
     icon: FaHome,
   },
   {
-    name: "Commercial Painting",
+    name: "Commercial Coating",
     href: "/commercial",
     description:
-      "Enhance the appeal of your business with our commercial painting services. We ensure minimal disruption and work that stands up to heavy usage.",
+      "Enhance the appeal of your business with our commercial coating services. We ensure minimal disruption and work that stands up to heavy usage.",
     icon: FaBuilding,
   },
   {
@@ -50,7 +50,7 @@ export default function ThreePromises() {
           </h1>
           <p className="mt-6 max-w-3xl text-xl text-gray-300">
             From residential to commercial projects, we provide a range of
-            painting services to cater to your needs. Check out our services
+            coating services to cater to your needs. Check out our services
             below.
           </p>
         </div>

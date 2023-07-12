@@ -9,23 +9,23 @@ import {
 
 const features = [
     {
-        name: 'Office Painting',
-        description: 'We provide high-quality, efficient commercial painting services for offices. We work around your schedule, ensuring minimal disruption to your operations.',
+        name: 'Office Coating',
+        description: 'We provide high-quality, efficient commercial coating services for offices. We work around your schedule, ensuring minimal disruption to your operations.',
         icon: OfficeBuildingIcon,
     },
     {
         name: 'Fast and Flexible',
-        description: 'Time is crucial for us and our clients. Our flexible team works day, night, and weekends to meet tight schedules and deliver projects on time.',
+        description: 'Time is crucial for us and our clients. Our flexible team works all day from 8am - 6pm to meet tight schedules and deliver projects on time.',
         icon: ClockIcon,
     },
     {
         name: 'Repairing Damaged Walls',
-        description: 'At TC Coating We make sure to get the best finish possible, to do this we will prepare and fix damaged walls, flaky paint, patch up cracks and even do external render repair and much more! Guaranteeing long lasting vibrant walls without compromising the structure of the building.',
+        description: 'At TC Coating We make sure to get the best finish possible, to do this we will prepare and fix damaged walls, flakey paint, patch up cracks and even do external render repair and much more! Guaranteeing long lasting vibrant walls without compromising the structure of the building.',
         icon: AcademicCapIcon,
     },
     {
         name: 'Residential and Commercial',
-        description: 'From a single room to an entire factory, we are equipped to handle painting projects of all sizes, delivering fast and comprehensive services for both residential and commercial properties.',
+        description: 'From a single room to an entire factory, we are equipped to handle coating projects of all sizes, delivering fast and comprehensive services for both residential and commercial properties.',
         icon: ScaleIcon,
     },
     {
@@ -35,7 +35,7 @@ const features = [
     },
     {
         name: 'Signature Coating',
-        description: "The coating is a textured material similar to paint that contains PERLITE (volcanic stone) that protects your house from outside elements, such as Sun and Rain meaning the colour does not fade, lasting a very long time. It is 10x thicker and more breathable and can even help insulate your home. Lastly, it's waterproof so walls can be washed!",
+        description: "The coating is a textured material similar to paint that contains PERLITE (volcanic stone) that protects your house from outside elements, such as Sun and Rain meaning the colour does not fade, lasting a very long time. It is 10x thicker, more breathable and can even help insulate your home. Lastly, it's waterproof so walls can be washed!",
         icon: HomeIcon,
     },
 ]

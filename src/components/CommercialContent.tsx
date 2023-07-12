@@ -19,7 +19,7 @@ export default function CommercialContent() {
                   Enhance Your Commercial Space with TC Coating
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  We offer professional commercial painting services designed to
+                  We offer professional commercial spraying services designed to
                   transform your property while causing minimal disruption to
                   your operations. Let us add a splash of color to your world.
                 </p>

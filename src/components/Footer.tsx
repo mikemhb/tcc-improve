@@ -3,8 +3,8 @@ import Link from "next/link"
 
 const navigation = {
   services: [
-    { name: 'Residential Painting', href: '/residential' },
-    { name: 'Commercial Painting', href: '/commercial' },
+    { name: 'Residential Coating', href: '/residential' },
+    { name: 'Commercial Coating', href: '/commercial' },
     { name: 'About TC Coating', href: '/about-us' },
     { name: 'Our Work', href: '/portfolio' },
   ],

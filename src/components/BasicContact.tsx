@@ -153,7 +153,7 @@ export default function BasicContact() {
                   value={formData['message']}
                   onChange={handleChange}
                   className="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-blue-500 focus:border-blue-500 border border-gray-300 rounded-md"
-                  placeholder="Tell us about your painting project..."
+                  placeholder="Tell us about your coating project..."
                   defaultValue={''}
                 />
               </div>

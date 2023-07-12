@@ -9,7 +9,7 @@ export default function CommercialTestimonial() {
             Enhance Your Commercial Space with TC Coating
           </h2>
           <p className="text-lg text-white mb-5">
-            We offer professional commercial painting services designed to
+            We offer professional commercial coating services designed to
             transform your property while causing minimal disruption to your
             operations. Let us add a splash of color to your world.
           </p>

@@ -10,7 +10,7 @@ export default function CTA() {
                     <span className="block">Discover the Magic of Professional Coating Services Today.</span>
                 </h2>
                 <p className="mt-4 text-lg leading-6 text-blue-200">
-                    Enhance the aesthetic appeal and extend the life of your buildings with our expert painting services. Get in touch for a free estimate now!
+                    Enhance the aesthetic appeal and extend the life of your buildings with our expert coating services. Get in touch for a free estimate now!
                 </p>
                 <Link href="/contact-us">
                     <div

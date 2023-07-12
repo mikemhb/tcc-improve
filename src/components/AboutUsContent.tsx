@@ -4,7 +4,6 @@ const stats = [
   { label: "Founded", value: "2023" },
   { label: "Paint Projects", value: "15+" },
   { label: "Satisfied Customers", value: "10+" },
-  { label: "Professional Painters", value: "3" },
 ];
 
 export default function AboutUsContent() {
@@ -58,8 +57,8 @@ export default function AboutUsContent() {
             <div className="mt-6 text-gray-500 space-y-6">
               <p className="text-lg">
                 We, at TC Coating, have been transforming homes and businesses
-                with our expert coating & repair services. With a team of professional
-                painters and state-of-the-art equipment, we guarantee
+                with our expert coating & repair services. With a team of professionals
+                 and state-of-the-art equipment, we guarantee
                 high-quality service and impeccable results.
               </p>
               <p className="text-base leading-7">
@@ -90,7 +89,7 @@ export default function AboutUsContent() {
             </dl>
             <div className="mt-10">
               <a href="#" className="text-base font-medium text-blue-600">
-                Learn more about our painting services{" "}
+                Learn more about our coating services{" "}
                 <span aria-hidden="true">&rarr;</span>
               </a>
             </div>
