@@ -121,8 +121,8 @@ export default function ResidentialContent() {
             <img
               className="relative mx-auto"
               width={490}
-              src="https://images.unsplash.com/photo-1439396812601-0b512add529f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=652&q=80"
-              alt="Four different paint rolling brushes"
+              src="Residentialhouse.jpg"
+              alt="Residential house painting project"
             />
           </div>
         </div>

@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const stats = [
   { label: "Founded", value: "2023" },
-  { label: "Paint Projects", value: "15+" },
+  { label: "Projects Completed", value: "15+" },
   { label: "Satisfied Customers", value: "10+" },
 ];
 
