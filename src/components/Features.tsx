@@ -30,12 +30,12 @@ const features = [
     },
     {
         name: 'Experienced Team',
-        description: 'We employ high-quality, experienced commercial painters and production managers to deliver projects on time and on budget. Our team is our biggest asset.',
+        description: 'We employ high-quality, experienced commercial workers and production managers to deliver projects on time and on budget. Our team is our biggest asset.',
         icon: UserGroupIcon,
     },
     {
         name: 'Signature Coating',
-        description: "The coating is a textured material similar to paint that contains PERLITE (volcanic stone) that protects your house from outside elements, such as Sun and Rain meaning the colour does not fade, lasting a very long time. It is 10x thicker, more breathable and can even help insulate your home. Lastly, it's waterproof so walls can be washed!",
+        description: "The coating is a textured material similar to paint that contains PERLITE (volcanic stone) that protects your house from outside elements, such as Sun and Rain meaning the colour does not fade, lasting a very long time. It is 10x thicker than paint, waterproof, more breathable and can even help insulate your home!",
         icon: HomeIcon,
     },
 ]
