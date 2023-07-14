@@ -54,18 +54,33 @@ export default function Hero() {
           <img
             src="sprayicon.png"
             alt="Spray gun icon"
-            width={200}
-            height={100}
+            width={170}
+            height={80}
             className="custom-image"
           />
         </div>
       </div>
 
       <style jsx>{`
+        .image-container {
+          position: relative;
+        }
+
         .custom-image {
-          position: absolute; 
-          top: 59px; 
-          right: -67px; 
+          position: absolute;
+          top: 80px;
+          right: -67px;
+        }
+
+        @media (max-width: 767px) {
+          .custom-image {
+            position: static;
+            display: block;
+            margin-top: -330px;
+            margin-right: -22px;
+            width: 160px; /* Adjust the size for mobile */
+            height: 140px; /* Adjust the size for mobile */
+          }
         }
       `}</style>
     </main>
