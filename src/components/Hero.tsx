@@ -76,7 +76,7 @@ export default function Hero() {
           .custom-image {
             position: static;
             display: block;
-            margin-top: -330px;
+            margin-top: -353px;
             margin-right: -22px;
             width: 160px; /* Adjust the size for mobile */
             height: 140px; /* Adjust the size for mobile */
