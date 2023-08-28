@@ -50,7 +50,7 @@ export default function Features() {
                     Everything You Need In a Coating Service
                 </p>
                 <p className="mx-auto mt-5 max-w-prose text-xl text-white">
-                    TC Coating provides high-quality, reliable, and tidy coating services for commercial and residential properties. Enhance the beauty of your property with us.
+                    TC Coating provides high-quality, reliable, and tidy coating services for residential properties. Enhance the beauty and value of your property with us.
                 </p>
                 <div className="mt-12">
                     <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">

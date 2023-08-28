@@ -6,19 +6,16 @@ export default function CommercialTestimonial() {
       <div className="max-w-7xl mx-auto md:grid md:grid-cols-2 md:px-6 lg:px-8">
         <div className="py-12 px-4 sm:px-6 md:flex md:flex-col md:py-16 md:pl-0 md:pr-10 md:border-r md:border-green-700 lg:pr-16">
           <h2 className="text-2xl font-bold text-white mb-5">
-            Enhance Your Commercial Space with TC Coating
+            Damaged Render Repair
           </h2>
           <p className="text-lg text-white mb-5">
-            We offer professional commercial coating services designed to
-            transform your property while causing minimal disruption to your
-            operations. Let us add a splash of color to your world.
+            We offer dmaged Render Repair and coating services designed clear up any flaws before spray coating your property ensuring a smooth long lasting finish!
+            Let us add a splash of color to your world.
           </p>
           <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
             <div className="relative text-lg font-medium text-white md:flex-grow">
               <p className="relative">
-                &ldquo;TC Coating transformed our office building, giving it a fresh
-                and modern look. Their team was professional and efficient. We
-                highly recommend their services.&rdquo;
+                &ldquo;TC Coating was incredibly friendly and helpful, they took care of my exterior walls and got rid of the old flakey paint and even patched up some spots. &rdquo;
               </p>
             </div>
             <footer className="mt-8">
@@ -47,15 +44,13 @@ export default function CommercialTestimonial() {
             Delivering Quality On Time, Every Time
           </h2>
           <p className="text-lg text-white mb-5">
-            At TC Coating, we understand the importance of timely completion of
-            projects. Our experienced team ensures the highest quality of work
-            while respecting your time and business operations.
+            At TC Coating, we believe you should be in charge of every step and we inform you of any changes so that you can be aware of whats happening, we also help guide you with our proffesional advice!
           </p>
           <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
             <div className="relative text-lg font-medium text-white md:flex-grow">
               <p className="relative">
                 &ldquo;From start to finish, TC Coating delivered exceptional service.
-                Our commercial space has been completely revitalized, and their
+                Our living space has been completely revitalised, and their
                 team completed the project ahead of schedule.&rdquo;
               </p>
             </div>

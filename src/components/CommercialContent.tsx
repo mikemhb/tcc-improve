@@ -16,12 +16,12 @@ export default function CommercialContent() {
               </div>
               <div className="mt-6">
                 <h2 className="text-3xl font-extrabold tracking-tight text-gray-900">
-                  Enhance Your Commercial Space with TC Coating
+                  Do you have Flakey Paint? Damaged wall's? Get It Covered with TC Coating!
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  We offer professional commercial spraying services designed to
+                  We offer professional damaged wall repair services designed to
                   transform your property while causing minimal disruption to
-                  your operations. Let us add a splash of color to your world.
+                  your operations. Give your house a fresh start TODAY!
                 </p>
                 <div className="mt-6">
                   <Link
@@ -37,9 +37,8 @@ export default function CommercialContent() {
               <blockquote>
                 <div>
                   <p className="text-base text-gray-500">
-                    &ldquo;TC Coating transformed our office building, giving it
-                    a fresh and modern look. Their team was professional and
-                    efficient. We highly recommend their services.&rdquo;
+                    &ldquo;TC Coating transformed our home, giving it
+                    a fresh and modern look, they took care of my damaged render and flakey paint so FAST! We highly recommend their services.&rdquo;
                   </p>
                 </div>
                 <footer className="mt-3">
@@ -63,7 +62,7 @@ export default function CommercialContent() {
             <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                src="https://images.unsplash.com/photo-1494475673543-6a6a27143fc8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+                src="rendorrepair.jpg"
                 alt="Commercial painting project"
               />
             </div>
@@ -87,7 +86,7 @@ export default function CommercialContent() {
                   At TC Coating, we understand the importance of timely
                   completion of projects. Our experienced team ensures the
                   highest quality of work while respecting your time and
-                  business operations.
+                  neighbours, We will repair your wall and get it up to scratch before applying our signiture coat, guaranteeing a long lasting vibrant colour that will help protect the wall from further damage!
                 </p>
                 <div className="mt-6">
                   <Link

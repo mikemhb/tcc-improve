@@ -1,4 +1,4 @@
-import { FaBrush, FaHome, FaBuilding } from "react-icons/fa";
+import { FaBrush, FaHome, FaHammer } from "react-icons/fa";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -11,11 +11,11 @@ const serviceLinks = [
     icon: FaHome,
   },
   {
-    name: "Commercial Coating",
+    name: "Damaged Surface Repair",
     href: "/commercial",
     description:
-      "Enhance the appeal of your business with our commercial coating services. We ensure minimal disruption and work that stands up to heavy usage.",
-    icon: FaBuilding,
+      "We take care of your damaged surface or wall, we take care of any damaged rendor and Enhance the appeal of your home by giving it a fresh start.",
+    icon: FaHammer,
   },
   {
     name: "Our Portfolio",
@@ -49,8 +49,9 @@ export default function ThreePromises() {
             Our Services
           </h1>
           <p className="mt-6 max-w-3xl text-xl text-gray-300">
-            From residential to commercial projects, we provide a range of
-            coating services to cater to your needs. Check out our services
+            From residential to damaged wall projects, we provide a range of
+            coating services to cater to your needs. No matter the job... We Got You Covered, 
+            Check out our services
             below.
           </p>
         </div>

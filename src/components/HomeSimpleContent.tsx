@@ -5,7 +5,7 @@ export default function HomeSimpleContent() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-extrabold text-white sm:text-4xl">Trusted by Property Owners Across East Anglia</h2>
           <p className="mt-3 text-xl text-blue-200 sm:mt-4">
-            Elevate the appeal of your property with the professional touch of TC Coating. We bring color to your residential and commercial spaces.
+            Elevate the appeal of your property with the professional touch of TC Coating. We bring color and character back to your home.
           </p>
         </div>
         <dl className="mt-10 text-center sm:max-w-3xl sm:mx-auto sm:grid sm:grid-cols-3 sm:gap-8">
