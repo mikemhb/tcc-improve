@@ -43,10 +43,10 @@ export default function Hero() {
             height={100}
           />
           </a>
-          <a href="https://uk.trustpilot.com/" target='_blank'>
+          <a href="https://www.google.co.uk/search?q=tc+coating+chelmsford&sca_esv=579489030&sxsrf=AM9HkKncL-13AgkcajPA5o9W770RzLh8wQ%3A1699123554872&ei=YpFGZY3uNNK7hbIPvr6BuAY&ved=0ahUKEwiNp6u_gKuCAxXSXUEAHT5fAGcQ4dUDCBA&uact=5&oq=tc+coating+chelmsford&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhV0YyBjb2F0aW5nIGNoZWxtc2ZvcmQyBRAAGKIEMgUQABiiBDIFEAAYogQyBRAAGKIESKUIUNoDWKMFcAF4AZABAJgBbKABxwGqAQMxLjG4AQPIAQD4AQHCAg0QABhHGNYEGLADGIsD4gMEGAAgQYgGAZAGAg&sclient=gws-wiz-serp" target='_blank'>
           <img
-            src="https://s3-eu-west-1.amazonaws.com/tpd/logos/46d6a890000064000500e0c3/0x0.png"
-            alt="Trustpilot Logo"
+            src="Google.png"
+            alt="Google Logo"
             width={250}
             height={100}
           />

@@ -4,17 +4,17 @@ import Image from "next/image";
 
 const serviceLinks = [
   {
-    name: "Residential Coating",
+    name: "Extra Services",
     href: "/residential",
     description:
-      "Transform your living space with our high-quality residential coating services. We use premium paint and detailed approach to ensure a great finish.",
+      "Transform your living space with our high-quality extra services. We use premium impregnator products to transform your patio, Wood Fences, benches, tiles and much more! Call Today for a FREE QUOTE!",
     icon: FaHome,
   },
   {
-    name: "Damaged Surface Repair",
+    name: "Self Cleaning & Render Repair",
     href: "/commercial",
     description:
-      "We take care of your damaged surface or wall, we take care of any damaged rendor and Enhance the appeal of your home by giving it a fresh start.",
+      "We take care of your damaged surface before we coat it with a Super Hydrophobic solution, this way our products has a better application then the rest takes care of itself! Enhancing the appeal of your home over time giving it a fresh start everyday.",
     icon: FaHammer,
   },
   {

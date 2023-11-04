@@ -25,16 +25,16 @@ export default function HomeContent() {
               The TC Coating Difference
             </h3>
             <p className="mt-8 text-lg text-black lg:bg-transparent">
-            At TC Coating, we believe in delivering more than just a painting service. We strive to provide a professional, efficient and seamless experience that transforms your property while respecting your time and budget. We don't just coat your wall but we also restore, seal and make it waterproof by replacing damaged render and Flakey paint. Topped with our specialised textured paint ensuring a top quality finish!
+            At TC Coating, we believe in delivering more than just a coating service. We strive to provide many services ensuring a professional, efficient and seamless experience that transforms your property while respecting your time and budget. We don't just coat your wall but we also restore, seal and make it Super Hydrophobic, Thermally Insulated, Self Cleaning & most importantly we make it Look FANTASTIC by replacing any damaged render and Flakey paint ensuring a perfect finish. Topped with our specialised textured paint ensuring a top quality finish!
             </p>
             <div className="mt-5 prose prose-blue text-black">
               <h3 className="py-4 text-3xl lg:bg-transparent rounded-md inline-flex justify-center px-2 xl:bg-transparent">Our Comprehensive Process</h3>
               <p className="lg:bg-transparent rounded-md inline-flex justify-center px-1">
-              Our coating process is meticulous and tailored to the unique needs of each client. We start with a comprehensive consultation to understand your specific goals and needs. Then, our skilled workers repair the surface to ensure the best finish, followed by careful application of premium quality paint through a paint gun to maximise coverage and consistency. Finally, we wrap up with a clean-up and a final walk-through to ensure your complete satisfaction.
+              Our coating process is meticulous and tailored to the unique needs of each client. We start with a consultation to understand your specific goals and needs. Then, our skilled workers repair the surface to ensure the best finish, followed by the careful application of premium quality products to maximise coverage and consistency. Finally, we wrap up with a clean-up and a final walk-through to ensure your complete satisfaction.
               </p>
               <h3 className="text-3xl lg:bg-transparent rounded-md inline-flex justify-center px-2 xl:bg-transparent">High-Quality Materials</h3>
               <p className="lg:bg-transparent rounded-md inline-flex justify-center px-2">
-              We never compromise on the quality of our materials. We use top-of-the-line materials and application tools such as a specialised spray gun to ensure a durable and beautiful finish, while the paint is 10x Thicker & more breathable than your usual paint. Enhancing the longevity and aesthetics of your property is our top priority.
+              We never compromise on the quality of our products. As ProPerla approved applicators we use top-of-the-line materials and application tools such as a specialised spray gun to ensure a durable and beautiful finish. Enhancing the longevity and aesthetics of your property is our top priority.
               </p>
               <h3 className="text-3xl lg:bg-transparent rounded-md inline-flex justify-center px-2 xl:bg-transparent">Dedicated Customer Satisfaction</h3>
               <p className="lg:bg-transparent rounded-md inline-flex justify-center px-2">

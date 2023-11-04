@@ -9,8 +9,8 @@ import {
 
 const features = [
     {
-        name: 'Office Coating',
-        description: 'We provide high-quality, efficient commercial coating services for offices. We work around your schedule, ensuring minimal disruption to your operations.',
+        name: 'Roof Coating',
+        description: 'We Got You Covered! From the Top to the bottom our super-hydrophobic coloured roof coating enusures a self cleaning maintenence free roof. Stand out from the rest for many years to come & contact us today for a     FREE quote!',
         icon: OfficeBuildingIcon,
     },
     {
@@ -24,18 +24,18 @@ const features = [
         icon: AcademicCapIcon,
     },
     {
-        name: 'Residential and Commercial',
-        description: 'From a single room to an entire factory, we are equipped to handle coating projects of all sizes, delivering fast and comprehensive services for both residential and commercial properties.',
+        name: 'Brick Home Insulation',
+        description: 'Improve your homes thermal efficiency and lower energy consumption & bills! We create a clear insulation barrier that protects your home from wheather, frost & organic growth!. It has been proven to help retain heat in walls and reduce heat loss!',
         icon: ScaleIcon,
     },
     {
-        name: 'Experienced Team',
-        description: 'We employ high-quality, experienced commercial workers and production managers to deliver projects on time and on budget. Our team is our biggest asset.',
+        name: 'Experienced ProPerla Guarantee',
+        description: 'We are approved applicators of ProPerla, qualified to deliver projects on time & to high standards. All our products & services are covered and guaranteed by ProPerla if you wanted to contact to verify or for more detail visit https://www.properla.co.uk/.',
         icon: UserGroupIcon,
     },
     {
         name: 'Signature Coating',
-        description: "The coating is a textured material similar to paint that contains PERLITE (volcanic stone) that protects your house from outside elements, such as Sun and Rain meaning the colour does not fade, lasting a very long time. It is 10x thicker than paint, waterproof, more breathable and can even help insulate your home!",
+        description: "We use a variety of profesional products that make the surface you choose SUPER-Hydrophobic, breathable and can even help retane heat & insulate your home! Not only that but you get to choose the colour you want & give your home a fresh start!",
         icon: HomeIcon,
     },
 ]

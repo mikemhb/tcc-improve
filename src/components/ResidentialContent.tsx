@@ -5,19 +5,19 @@ const contactFeatures = [
   {
     id: 1,
     name: 'Expert Craftsmanship',
-    description: 'Our team of skilled coaters will deliver high-quality finished results for all your residential spray coating needs.',
+    description: 'Our team of skilled coaters are approved applicators of ProPerla & will deliver high-quality finished results for all your residential spray coating needs.',
     icon: FaBrush,
   },
   {
     id: 2,
-    name: 'Home Beautification',
-    description: 'Give your home the ultimate makeover with a fresh coat! Transform and uplift your living spaces today and give the team a call.',
+    name: 'Self Cleaning Home',
+    description: 'Give your home the ultimate makeover with a fresh super hydrophobic coat! With self cleaning mainetence free properties you WILL transform & uplift your living spaces today and for years to come!',
     icon: FaHome,
   },
   {
     id: 3,
-    name: 'Fast & Efficient Service',
-    description: 'We work efficiently to complete your coating project on time, without a single compromise on quality.',
+    name: 'Thermal Insulation & Fast Service',
+    description: 'Thermally insulate your home and reduce your heat loss today with our special services, We work efficiently to complete your coating project on time, without a single compromise on quality... CALL TODAY!',
     icon: FaCheck,
   },
 ]
