@@ -9,13 +9,13 @@ export default function CommercialTestimonial() {
             Damaged Render Repair
           </h2>
           <p className="text-lg text-white mb-5">
-            We offer dmaged Render Repair and coating services designed clear up any flaws before spray coating your property ensuring a smooth long lasting finish!
+            We offer damaged Render Repair and coating services designed clear up any flaws before spray coating your property ensuring a smooth long lasting finish!
             Let us add a splash of color to your world.
           </p>
           <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
             <div className="relative text-lg font-medium text-white md:flex-grow">
               <p className="relative">
-                &ldquo;TC Coating was incredibly friendly and helpful, they took care of my exterior walls and got rid of the old flakey paint and even patched up some spots. &rdquo;
+                &ldquo;Great job on our exterior walls. Were very polite and on time, would definitely recommend and use again. Thank you! &rdquo;
               </p>
             </div>
             <footer className="mt-8">
@@ -24,15 +24,15 @@ export default function CommercialTestimonial() {
                   <img
                     className="h-12 w-12 rounded-full"
                     src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-                    alt="John Doe - Office Manager"
+                    alt="Tristan Breadman - Office Manager"
                   />
                 </div>
                 <div className="ml-4">
                   <div className="text-base font-medium text-white">
-                    Jeffrey Hon
+                  Tristan Breadman
                   </div>
                   <div className="text-base font-medium text-gray-300">
-                    Office Manager
+                    Google Reviews
                   </div>
                 </div>
               </div>
@@ -49,9 +49,7 @@ export default function CommercialTestimonial() {
           <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
             <div className="relative text-lg font-medium text-white md:flex-grow">
               <p className="relative">
-                &ldquo;From start to finish, TC Coating delivered exceptional service.
-                Our living space has been completely revitalised, and their
-                team completed the project ahead of schedule.&rdquo;
+                &ldquo;The quote was very good. Always on time very tidy and honest about how long everything would take. Made the house look brand new again. 100% would recommend.&rdquo;
               </p>
             </div>
             <footer className="mt-8">
@@ -65,10 +63,10 @@ export default function CommercialTestimonial() {
                 </div>
                 <div className="ml-4">
                   <div className="text-base font-medium text-white">
-                    Jane Smith
+                    Rosie Edgington
                   </div>
                   <div className="text-base font-medium text-gray-300">
-                    Business Owner
+                    Checkatrade Reviews
                   </div>
                 </div>
               </div>

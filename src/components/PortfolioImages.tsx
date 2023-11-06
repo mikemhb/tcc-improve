@@ -12,12 +12,20 @@ const portfolio = [
     after: "/run-down-building-after.jpg",
   },
   {
-    before: "/yellow-house-before.jpg",
-    after: "/yellow-house-after.jpg",
+    before: "/Roofbefore.jpg",
+    after: "/roofafter.jpg",
+  },
+  {
+    before: "/Pavingbefore.jpeg",
+    after: "/pavingafter.png",
   },
   {
     before: "/badhouse.jpg",
     after: "/newhouse.jpg",
+  },
+  {
+    before: "/Insulation.jpg",
+    after: "/insulationafter.jpg",
   },
 ];
 

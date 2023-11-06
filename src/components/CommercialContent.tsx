@@ -37,8 +37,8 @@ export default function CommercialContent() {
               <blockquote>
                 <div>
                   <p className="text-base text-gray-500">
-                    &ldquo;TC Coating transformed our home, giving it
-                    a fresh and modern look, they took care of my damaged render and flakey paint so FAST! We highly recommend their services.&rdquo;
+                    &ldquo;Very professional guys with an awesome result and great value for money.
+                    Refreshing to use trade people that you can trust. Can recommend this company 100%. Thank you very much&rdquo;
                   </p>
                 </div>
                 <footer className="mt-3">
@@ -51,7 +51,7 @@ export default function CommercialContent() {
                       />
                     </div>
                     <div className="text-base font-medium text-gray-700">
-                      Jeffrey hon, Office Manager
+                      Ben Leete, Google Local Guide
                     </div>
                   </div>
                 </footer>
@@ -62,7 +62,7 @@ export default function CommercialContent() {
             <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                src="rendorrepair.jpg"
+                src="flakeypaint.jpeg"
                 alt="Commercial painting project"
               />
             </div>
