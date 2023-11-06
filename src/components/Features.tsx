@@ -15,7 +15,7 @@ const features = [
     },
     {
         name: 'Fast and Flexible',
-        description: 'Time is crucial for us and our clients. Our flexible team works all day from 8am - 6pm to meet tight schedules and deliver projects on time.',
+        description: 'Time is crucial for us and our clients. Our flexible team works effortlessly to meet tight schedules and deliver projects on time.',
         icon: ClockIcon,
     },
     {
